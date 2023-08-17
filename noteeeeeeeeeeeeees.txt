@@ -1,0 +1,1 @@
+to create next project===========>>npx create-next-app@latest ./
