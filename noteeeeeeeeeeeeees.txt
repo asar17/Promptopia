@@ -1,1 +1,22 @@
+***SessionProvider component inside Provider Component is higer oreder component wrap all the application***
+==========================================================================================================
+to make next-auth with google
+console.cloud.google.com
+api & services
+create OAuth consent screen ==>add app name ===>authorized domain ===>click ok
+create credentials ===>OAuth lcient id ====>web app ===>add http://localhost:3000 two time ==>click create
+
+==========================================================================================================
 to create next project===========>>npx create-next-app@latest ./
+w-full
+flex-col
+flex-center
+text-center
+=========== bg-clip-text text-transparent ============
+flex-between
+mb-16
+pt-3
+object-contain
+flex gab-2
+sm:flex hidden
+rounded-full
